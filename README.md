@@ -1,5 +1,8 @@
 # Citas
 
+Saludos! Les presento este proyecto de citas medicas en el cual lo interesante es que estoy pasando datos entre diferentes componentes a través de los decoradores Input y Output
+
+Puedes ver este proyecto en mi Netlify aqui: https://sebastianvergara-app-citasmedicas.netlify.app/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
